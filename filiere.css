@@ -1,0 +1,141 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(to right, #434343 0%, black 100%);
+  background-attachment: fixed;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+hr {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+/* a {
+        text-decoration: none;
+        color: #00C0FF;
+        border-radius: 3px;
+    }
+
+    a:hover {
+        box-shadow: 2px 2px 2px 2px #00C0FF;
+    }
+
+    header {
+        margin-left: 5%;
+        margin-right: 5%;
+        padding: 5px;
+        box-shadow: 0px 3px 0px 0px #00C0FF;
+    }
+
+    .header-div {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: space-between;
+    }
+
+    .header-div nav {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+
+    nav h3 {
+        margin-right: 15px;
+    }
+
+    nav input {
+        width: 300px;
+        height: 30px;
+        border: 2px solid black;
+    }
+
+    end header */
+h3 {
+  color: green;
+}
+
+.h3 {
+  color: red;
+}
+
+form {
+  margin-top: 40px;
+  padding: 10px;
+}
+
+table,
+th,
+td {
+  padding: 10px;
+  width: 600px;
+  border: 1px solid #00c0ff;
+  color: #00c0ff;
+  text-align: center;
+}
+
+input:hover {
+  border: 2px solid #00c0ff;
+}
+
+/* start footer */
+.footer {
+  padding: 10px;
+  margin-bottom: 2%;
+  margin-top: 5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  border-top: 2px solid #00c0ff;
+  border-bottom: 2px solid #00c0ff;
+}
+
+.footer-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  color: white;
+}
+
+.footer a,
+h4 {
+  text-align: center;
+  color: #00c0ff;
+}
+
+.footer-card {
+  text-align: center;
+}
+
+.insert {
+  text-align: center;
+  width: 400px;
+  margin-left: 20px;
+  padding: 10px;
+  margin-top: 5%;
+  border: 2px solid #00c0ff;
+  border-radius: 5px;
+}
+
+.insert h2 {
+  color: #00c0ff;
+}
+
+input:hover {
+  border: 2px solid #00c0ff;
+}
+
+h3 {
+  color: red;
+  font-size: 20px;
+}
+
+.success {
+  color: green;
+  font-size: 20px;
+}
+
+h1 {
+  color: #00c0ff;
+}
